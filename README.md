@@ -14,9 +14,11 @@ Classify spam and Ham messages
 
 All project goals are performed in "SMS_Spam_Classifier.ipynb" file.  
 The project is deployed on Heroku  
+
+### Test Cases file: test_cases.txt  
 link: https://esc-suyog.herokuapp.com/
 
-Test Cases file: test_cases.txt
+
 
 In the project I applied many classification algorithm for better Accuracy and Precision.  
 Machine Learing Alorithms : 
